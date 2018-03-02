@@ -1,0 +1,13 @@
+We have taken 7 GMM HMM
+1.Arnab HMM
+2.Kejriwal HMM
+3.Ravish HMM
+to identify person who is speaking
+4.Single HMM
+5.Multi HMM
+to identify when a single person is speaking or multiple people are speaking
+6.Shouting HMM
+7.Non shouting HMM
+
+	We first see probablity of Single and Multi HMM. If the state is multi we reject the case else if it is Single we check for Shouting state or Not shouting State. 2 seperate dictionary are used to maintain shouting and non shouting frequency of each speaker. Looking at the probablity of Arnab,Kejriwal and Ravish the speaker is choosen and his frequency count is increased for shouting or not shouting dictionary respectively. 
+	In the end the frequency is used to calcuate the amount of time they spoke (i.e frequency*0.05 second) and is divided by total number of seconds of the audio clip to get the percent of time the speaker is talking.

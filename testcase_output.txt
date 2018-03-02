@@ -1,0 +1,330 @@
+
+*******--> ./testing_files/Raveesh_3_mfcc.txt  <--*******
+
+Checking single HMM and multi HMM:
+Number of instance of Single: 588
+
+Checking shouting and non-shouting HMM for all Single instances:
+Number of instance of Shouting: 63
+Number of instance of Not-shouting: 525
+
+Checking the frequency of each speaker in both both shouting and not shouting instance...
+Shouting instance: 
+{'kejriwal': 0, 'arnab': 38, 'ravish': 25}
+Not-Shouting instance: 
+{'kejriwal': 0, 'arnab': 108, 'ravish': 417}
+
+Result:
+kejriwal was shouting for 0.0 sec.
+arnab was shouting for 1.9 sec.
+ravish was shouting for 1.25 sec.
+
+kejriwal was not shouting for 0.0 sec.
+arnab was not shouting for 5.4 sec.
+ravish was not shouting for 20.85 sec.
+
+kejriwal was shouting for 0.0 % of time.
+arnab was shouting for 6.34390651085 % of time.
+ravish was shouting for 4.17362270451 % of time.
+
+kejriwal was not shouting for 0.0 sec.
+arnab was not shouting for 18.0300500835 sec.
+ravish was not shouting for 69.6160267112 sec.
+
+
+*******--> ./testing_files/Arnab_11_mfcc.txt  <--*******
+
+Checking single HMM and multi HMM:
+Number of instance of Single: 440
+
+Checking shouting and non-shouting HMM for all Single instances:
+Number of instance of Shouting: 173
+Number of instance of Not-shouting: 267
+
+Checking the frequency of each speaker in both both shouting and not shouting instance...
+Shouting instance: 
+{'kejriwal': 0, 'arnab': 166, 'ravish': 7}
+Not-Shouting instance: 
+{'kejriwal': 2, 'arnab': 182, 'ravish': 83}
+
+Result:
+kejriwal was shouting for 0.0 sec.
+arnab was shouting for 8.3 sec.
+ravish was shouting for 0.35 sec.
+
+kejriwal was not shouting for 0.1 sec.
+arnab was not shouting for 9.1 sec.
+ravish was not shouting for 4.15 sec.
+
+kejriwal was shouting for 0.0 % of time.
+arnab was shouting for 28.5223367698 % of time.
+ravish was shouting for 1.20274914089 % of time.
+
+kejriwal was not shouting for 0.343642611684 sec.
+arnab was not shouting for 31.2714776632 sec.
+ravish was not shouting for 14.2611683849 sec.
+
+
+*******--> ./testing_files/Raveesh_1_mfcc.txt  <--*******
+
+Checking single HMM and multi HMM:
+Number of instance of Single: 596
+
+Checking shouting and non-shouting HMM for all Single instances:
+Number of instance of Shouting: 163
+Number of instance of Not-shouting: 433
+
+Checking the frequency of each speaker in both both shouting and not shouting instance...
+Shouting instance: 
+{'kejriwal': 0, 'arnab': 119, 'ravish': 44}
+Not-Shouting instance: 
+{'kejriwal': 0, 'arnab': 37, 'ravish': 396}
+
+Result:
+kejriwal was shouting for 0.0 sec.
+arnab was shouting for 5.95 sec.
+ravish was shouting for 2.2 sec.
+
+kejriwal was not shouting for 0.0 sec.
+arnab was not shouting for 1.85 sec.
+ravish was not shouting for 19.8 sec.
+
+kejriwal was shouting for 0.0 % of time.
+arnab was shouting for 19.8664440735 % of time.
+ravish was shouting for 7.34557595993 % of time.
+
+kejriwal was not shouting for 0.0 sec.
+arnab was not shouting for 6.17696160267 sec.
+ravish was not shouting for 66.1101836394 sec.
+
+
+*******--> ./testing_files/Arnab_14_mfcc.txt  <--*******
+
+Checking single HMM and multi HMM:
+Number of instance of Single: 42
+
+Checking shouting and non-shouting HMM for all Single instances:
+Number of instance of Shouting: 0
+Number of instance of Not-shouting: 42
+
+Checking the frequency of each speaker in both both shouting and not shouting instance...
+Shouting instance: 
+{'kejriwal': 0, 'arnab': 0, 'ravish': 0}
+Not-Shouting instance: 
+{'kejriwal': 0, 'arnab': 31, 'ravish': 11}
+
+Result:
+kejriwal was shouting for 0.0 sec.
+arnab was shouting for 0.0 sec.
+ravish was shouting for 0.0 sec.
+
+kejriwal was not shouting for 0.0 sec.
+arnab was not shouting for 1.55 sec.
+ravish was not shouting for 0.55 sec.
+
+kejriwal was shouting for 0.0 % of time.
+arnab was shouting for 0.0 % of time.
+ravish was shouting for 0.0 % of time.
+
+kejriwal was not shouting for 0.0 sec.
+arnab was not shouting for 14.0271493213 sec.
+ravish was not shouting for 4.97737556561 sec.
+
+
+*******--> ./testing_files/arvind_5_mfcc.txt  <--*******
+
+Checking single HMM and multi HMM:
+Number of instance of Single: 599
+
+Checking shouting and non-shouting HMM for all Single instances:
+Number of instance of Shouting: 0
+Number of instance of Not-shouting: 599
+
+Checking the frequency of each speaker in both both shouting and not shouting instance...
+Shouting instance: 
+{'kejriwal': 0, 'arnab': 0, 'ravish': 0}
+Not-Shouting instance: 
+{'kejriwal': 596, 'arnab': 3, 'ravish': 0}
+
+Result:
+kejriwal was shouting for 0.0 sec.
+arnab was shouting for 0.0 sec.
+ravish was shouting for 0.0 sec.
+
+kejriwal was not shouting for 29.8 sec.
+arnab was not shouting for 0.15 sec.
+ravish was not shouting for 0.0 sec.
+
+kejriwal was shouting for 0.0 % of time.
+arnab was shouting for 0.0 % of time.
+ravish was shouting for 0.0 % of time.
+
+kejriwal was not shouting for 99.3333333333 sec.
+arnab was not shouting for 0.5 sec.
+ravish was not shouting for 0.0 sec.
+
+
+*******--> ./testing_files/arvind_3_mfcc.txt  <--*******
+
+Checking single HMM and multi HMM:
+Number of instance of Single: 600
+
+Checking shouting and non-shouting HMM for all Single instances:
+Number of instance of Shouting: 0
+Number of instance of Not-shouting: 600
+
+Checking the frequency of each speaker in both both shouting and not shouting instance...
+Shouting instance: 
+{'kejriwal': 0, 'arnab': 0, 'ravish': 0}
+Not-Shouting instance: 
+{'kejriwal': 574, 'arnab': 25, 'ravish': 1}
+
+Result:
+kejriwal was shouting for 0.0 sec.
+arnab was shouting for 0.0 sec.
+ravish was shouting for 0.0 sec.
+
+kejriwal was not shouting for 28.7 sec.
+arnab was not shouting for 1.25 sec.
+ravish was not shouting for 0.05 sec.
+
+kejriwal was shouting for 0.0 % of time.
+arnab was shouting for 0.0 % of time.
+ravish was shouting for 0.0 % of time.
+
+kejriwal was not shouting for 95.6666666667 sec.
+arnab was not shouting for 4.16666666667 sec.
+ravish was not shouting for 0.166666666667 sec.
+
+
+*******--> ./testing_files/Arnab_13_mfcc.txt  <--*******
+
+Checking single HMM and multi HMM:
+Number of instance of Single: 374
+
+Checking shouting and non-shouting HMM for all Single instances:
+Number of instance of Shouting: 44
+Number of instance of Not-shouting: 330
+
+Checking the frequency of each speaker in both both shouting and not shouting instance...
+Shouting instance: 
+{'kejriwal': 0, 'arnab': 42, 'ravish': 2}
+Not-Shouting instance: 
+{'kejriwal': 0, 'arnab': 85, 'ravish': 245}
+
+Result:
+kejriwal was shouting for 0.0 sec.
+arnab was shouting for 2.1 sec.
+ravish was shouting for 0.1 sec.
+
+kejriwal was not shouting for 0.0 sec.
+arnab was not shouting for 4.25 sec.
+ravish was not shouting for 12.25 sec.
+
+kejriwal was shouting for 0.0 % of time.
+arnab was shouting for 7.01168614357 % of time.
+ravish was shouting for 0.333889816361 % of time.
+
+kejriwal was not shouting for 0.0 sec.
+arnab was not shouting for 14.1903171953 sec.
+ravish was not shouting for 40.9015025042 sec.
+
+
+*******--> ./testing_files/arvind_4_mfcc.txt  <--*******
+
+Checking single HMM and multi HMM:
+Number of instance of Single: 599
+
+Checking shouting and non-shouting HMM for all Single instances:
+Number of instance of Shouting: 0
+Number of instance of Not-shouting: 599
+
+Checking the frequency of each speaker in both both shouting and not shouting instance...
+Shouting instance: 
+{'kejriwal': 0, 'arnab': 0, 'ravish': 0}
+Not-Shouting instance: 
+{'kejriwal': 599, 'arnab': 0, 'ravish': 0}
+
+Result:
+kejriwal was shouting for 0.0 sec.
+arnab was shouting for 0.0 sec.
+ravish was shouting for 0.0 sec.
+
+kejriwal was not shouting for 29.95 sec.
+arnab was not shouting for 0.0 sec.
+ravish was not shouting for 0.0 sec.
+
+kejriwal was shouting for 0.0 % of time.
+arnab was shouting for 0.0 % of time.
+ravish was shouting for 0.0 % of time.
+
+kejriwal was not shouting for 99.8333333333 sec.
+arnab was not shouting for 0.0 sec.
+ravish was not shouting for 0.0 sec.
+
+
+*******--> ./testing_files/Raveesh_2_mfcc.txt  <--*******
+
+Checking single HMM and multi HMM:
+Number of instance of Single: 594
+
+Checking shouting and non-shouting HMM for all Single instances:
+Number of instance of Shouting: 65
+Number of instance of Not-shouting: 529
+
+Checking the frequency of each speaker in both both shouting and not shouting instance...
+Shouting instance: 
+{'kejriwal': 0, 'arnab': 50, 'ravish': 15}
+Not-Shouting instance: 
+{'kejriwal': 0, 'arnab': 137, 'ravish': 392}
+
+Result:
+kejriwal was shouting for 0.0 sec.
+arnab was shouting for 2.5 sec.
+ravish was shouting for 0.75 sec.
+
+kejriwal was not shouting for 0.0 sec.
+arnab was not shouting for 6.85 sec.
+ravish was not shouting for 19.6 sec.
+
+kejriwal was shouting for 0.0 % of time.
+arnab was shouting for 8.34724540902 % of time.
+ravish was shouting for 2.5041736227 % of time.
+
+kejriwal was not shouting for 0.0 sec.
+arnab was not shouting for 22.8714524207 sec.
+ravish was not shouting for 65.4424040067 sec.
+
+
+*******--> ./testing_files/Raveesh_4_mfcc.txt  <--*******
+
+Checking single HMM and multi HMM:
+Number of instance of Single: 577
+
+Checking shouting and non-shouting HMM for all Single instances:
+Number of instance of Shouting: 57
+Number of instance of Not-shouting: 520
+
+Checking the frequency of each speaker in both both shouting and not shouting instance...
+Shouting instance: 
+{'kejriwal': 0, 'arnab': 26, 'ravish': 31}
+Not-Shouting instance: 
+{'kejriwal': 0, 'arnab': 88, 'ravish': 432}
+
+Result:
+kejriwal was shouting for 0.0 sec.
+arnab was shouting for 1.3 sec.
+ravish was shouting for 1.55 sec.
+
+kejriwal was not shouting for 0.0 sec.
+arnab was not shouting for 4.4 sec.
+ravish was not shouting for 21.6 sec.
+
+kejriwal was shouting for 0.0 % of time.
+arnab was shouting for 4.34056761269 % of time.
+ravish was shouting for 5.17529215359 % of time.
+
+kejriwal was not shouting for 0.0 sec.
+arnab was not shouting for 14.6911519199 sec.
+ravish was not shouting for 72.1202003339 sec.
+
